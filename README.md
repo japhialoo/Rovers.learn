@@ -25,7 +25,7 @@ pip install cmaes scipy pygad matplotlib
 7. "Functions.py" contain miscellaneous functions used for creating arrays and saving solutions. 
 
 ## GitHub Repository
-_Below is the code to slone the github repository for the implementations_
+_Below is the code to clone the github repository for the implementations_
 
 Clone the repo:
 ```sh
