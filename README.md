@@ -29,5 +29,5 @@ _Below is the code to slone the github repository for the implementations_
 
 Clone the repo:
 ```sh
-git clone https://github.com/japhialoo/SpOC.git
+git clone https://github.com/japhialoo/SpOC2-Morphing-Rovers.git
 ```
